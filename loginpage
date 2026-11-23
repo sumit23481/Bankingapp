@@ -21,7 +21,7 @@
             <button type="submit" class="login-btn">Login</button>
         </form>
         <div class="signup-link">
-            <p>Don't have an extra account? <a href="#">Sign up</a></p>
+            <p>Don't have an account? <a href="#">Sign up</a></p>
         </div>
     </div>
 </body>
